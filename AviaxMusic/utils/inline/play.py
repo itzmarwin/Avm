@@ -68,8 +68,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="➕ Add me in Your Group",
-                url="https://t.me/Lumine_Roxbot?start"
+                text="Add me in Your Group",
+                url="https://t.me/Mikasa_Music_Bot?start"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -88,8 +88,8 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="➕ Add me in Your Group",
-                url="https://t.me/Lumine_Roxbot?start"
+                text="Add me in Your Group",
+                url="https://t.me/Mikasa_Music_Bot?start"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
